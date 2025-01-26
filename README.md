@@ -1,5 +1,4 @@
 # stock-data-analysis
-# Stock Data Fetcher
 
 This project is designed to fetch stock data for a specific stock symbol, transform it, and store it in a database. The project fetches real-time stock data, calculates moving averages, volatility, and stores the data in a dynamic table structure within a database.
 
